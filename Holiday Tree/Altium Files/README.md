@@ -14,3 +14,9 @@ This contains all the Altium files used when running the workshop for the first 
 
 # Bottom Layer
 ![Bottom_Layer](./Altium%20Images/Bottom_Layer.png)
+
+# Top Side 3D
+![Top_Side_3D](./Altium%20Images/Top_Side_3D.png)
+
+# Bottom Side 3D
+![Bottom_Side_3D](./Altium%20Images/Bottom_Side_3D.png)
