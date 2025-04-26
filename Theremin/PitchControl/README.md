@@ -14,7 +14,7 @@ These files include the simulation used to test the circuit as well as the files
 
 ## Altium files
 
-These files include the schematic, layout, and Gerber files of the Pitch Control board. theremin2.PCBDoc is the file of the final layout. Any other .PCBDoc was an old version of the layout.
+These files include the schematic, layout, and Gerber files of the Pitch Control board. 'theremin2.PCBDoc' is the file of the final layout. Any other '.PCBDoc was' an old version of the layout.
 
 Below is an image of the schematic: 
 ![Schematic](./Images/ThereminSchematic.png)
