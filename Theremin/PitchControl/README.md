@@ -2,9 +2,11 @@
 
 This directory contains both the LTSpice simulation and the Altium files for the Theremin Pitch Control board. 
 
-A main consideration when making this board was signal integrity. Double GND planes were used to isolate the signal traces, reducing noise between them. Similarly, the distance between these traces were also maximized to reduce interferences between traces. Stitching vias were also used to connect the GND planes to parts of the board that would otherwise have dead copper. Digital and power traces were made thicker to allow for a better current capacity. 
+The theremin pitch control is the circuit that controls the pitch of the theremin through variable and fixed oscillataors. An antenna is to be connected to this board and the closer your hand is to the antenna rod, the higher the pitch the theremin will make.
 
-Other aspects of the board include an on-board audio amp. This board can be used on it's own to only have pitch control over the theremin and can be connected directly to a speaker. However, by utilizing the switch on the board, the board can also be connected to the volume control board, with its own audio amp. 
+One consideration when making this board was including an on-board audio amp. This board can be used on it's own to only have pitch control over the theremin and can be connected directly to a speaker. However, by utilizing the switch on the board, the board can also be connected to the volume control board, with its own audio amp. 
+
+Another main consideration was signal integrity. Double GND planes were used to isolate the signal traces, reducing noise between them. Similarly, the distance between these traces were also maximized to reduce interferences between traces. Stitching vias were also used to connect the GND planes to parts of the board that would otherwise have dead copper. Digital and power traces were made thicker to allow for a better current capacity. 
 
 The board was also intentionally designed to be the size of a credit card, so you can carry around your own theremin in your wallet!
 
